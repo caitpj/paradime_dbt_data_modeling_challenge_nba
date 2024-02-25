@@ -1,6 +1,6 @@
 # dbt™ Data Modeling Challenge - NBA Edition
 
-# Cai Parry-Jones's Submission
+# Submission by Cai Parry-Jones
 
 <img width="627" alt="image" src="https://github.com/caitpj/test_nba/assets/97813242/664e054c-567f-4c7b-8efe-b4d7594c6090">
 
@@ -72,36 +72,32 @@ Here are a few of the critical metrics that represent a players performance in g
 
 
 *Insights:* 
-Michael Jordan has scored more points per game, and won more games as a % of total games played than LeBron James. What's more, Michael Jordan switches in to hyperdrive when he's in the playoffs, with a 17% higher points scored per game vs LeBron James, a 3% higher proportion of games won vs LeBron James, and a staggering 57% higher average plus-minus per game vs LeBron James. On the other hand, LeBron James does have a higher average plus-minus per game during the regular season, where the bulk of games are player. A LeBron James fan could argue that the staggering difference in average plus-minus per game for Michael Jordan between playoff games and regular season games highlights Michael Jordan was lucky to have performed so well in the playoff games. If he had perfromed in the playoffs as he had in the regular season games, he would not have won nearly as many playoff games and subsequently fewer NBA Championships.
+Michael Jordan has scored more points per game, and won more games as a % of total games played than LeBron James. What's more, Michael Jordan switches in to hyperdrive when he's in the playoffs, with a 17% higher points scored per game vs LeBron James, a 3% higher proportion of games won vs LeBron James, and a staggering 57% higher average plus-minus per game vs LeBron James. On the other hand, LeBron James does have a higher average plus-minus per game during the regular season, where the bulk of games are player. A LeBron James fan could argue that the staggering difference in average plus-minus per game for Michael Jordan between playoff games and regular season games highlights Michael Jordan was lucky to have performed so well in the playoff games. If he had perfromed in the playoffs as he had in the regular season, he would likley not have won nearly as many playoff games and subsequently achieved fewer NBA Championships.
 
-_Limitation of analysis_: Sadly the plus-minus data only become available 
+_Limitation of analysis_: Sadly the plus-minus data only becomes available after the 1995-96 season. Which means it only captures four of Michael Jordan's 15 seasons in the NBA.
 
-### Top Playoff Scorers
-Showcases players who achieved the the most points scored in any playoff season.
+### Key Game Statistics by Season
+It's not great careers that win you Championships, it's great seasons. The following visualisations aim to shine a light on the outstanding seasons of Michael Jordan and LeBron James, as well as highlight their consistency of outperfroming fellow NBA players. The '*' next to the Other legend means: any other NBA player who had played an average of 25 minutes per game during the season.
 
-![Top Playoff Scorers](https://github.com/paradime-io/paradime-dbt-nba-data-challenge/assets/107123308/db51f47a-5cfb-431c-9c7b-3a793a6b4352)
+![image](https://github.com/caitpj/test_nba/assets/97813242/b9bdcb9d-4986-4395-a0aa-57a6b4a1520a)
+
+![image](https://github.com/caitpj/test_nba/assets/97813242/a1e84159-7740-4271-844e-208ce59edd2c)
+
+![image](https://github.com/caitpj/test_nba/assets/97813242/9d3ff3e8-acea-4ff4-a805-e65fbb7005f2)
+
 
 *Insights:* 
-Michael Jordan, LeBron James, and Kobe Bryant are the only players having three seasons within the top 25 
-highest most points scored in a playoff season.
+Michael Jordan and LeBron James both consistently 
 
 ### Top Regular Season Scorers
 Highlights NBA players who scored the most in regular seasons.
 
-![Top Regular Season Scorers](https://github.com/paradime-io/paradime-dbt-nba-data-challenge/assets/107123308/774223ad-11f0-4202-817f-5a8c1daf3afc)
 
 *Insights:* 
 Wilt Champerlain is one of the best regular season scorer of all time. In addition to having the most points scored 
 in any regular season ever (4,029), he also has six season in the top 25. The only other player with 6 top 25 seasons is Michael Jordan.
 In the chart above, notice that Wilt Champerlain doesn't appear once in the top 25 playoff scorers of all time 👀.
 
-### NBA Players by University
-Displays which universities have produced the most NBA players.
-
-![NBA Players by University](https://github.com/paradime-io/paradime-dbt-nba-data-challenge/assets/107123308/e21af17a-9cb8-491a-8e0d-b70eae118324)
-
-*Insights:* 
-Kentucky has produced the most NBA players in NBA history by a significant margin.... Go Wildcats! Also, this data is [slightly inaccurate](https://erudera.com/resources/colleges-with-most-nba-players/), but that's the NBA API's fault, not mine 🤣
 
 ## Conclusions
 This project successfully extracts significant insights from NBA data that NBA fans would find interesting, such as: 

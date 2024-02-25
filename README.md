@@ -87,16 +87,16 @@ It's not great careers that win you Championships, it's great seasons. The follo
 
 
 *Insights:* 
-Michael Jordan and LeBron James both consistently 
+Michael Jordan and LeBron James both consistently over perform against other NBA players for many of the metrics highlighted in these visualizations.
 
-### Top Regular Season Scorers
-Highlights NBA players who scored the most in regular seasons.
+### Body Type
+There's no question about it, there's a lot of tall people in the NBA. But is there a limit to the value of height in basketball? And how does weight and BMI factor in to NBA success?
+
+![image](https://github.com/caitpj/test_nba/assets/97813242/48a3155d-1fd8-42cf-abce-47c61d020f2b)
 
 
 *Insights:* 
-Wilt Champerlain is one of the best regular season scorer of all time. In addition to having the most points scored 
-in any regular season ever (4,029), he also has six season in the top 25. The only other player with 6 top 25 seasons is Michael Jordan.
-In the chart above, notice that Wilt Champerlain doesn't appear once in the top 25 playoff scorers of all time 👀.
+
 
 
 ## Conclusions

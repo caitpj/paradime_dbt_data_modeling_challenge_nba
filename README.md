@@ -81,28 +81,39 @@ It's not great careers that win you Championships, it's great seasons. The follo
 
 ![image](https://github.com/caitpj/test_nba/assets/97813242/8997914c-0a35-453c-aa0f-6caa92d315b9)
 
-![image](https://github.com/caitpj/test_nba/assets/97813242/e45b09d7-f4d5-4542-bed2-a07df2bd0f91)
+
+*Insights:* 
+Winning is clearly something both Michael Jordan and LeBron James do more frequntly than the average NBA player. And winning games is also somthing that's highly correlated to winning Championships, who'd have thought, with neither Michael Jordan or LeBron James winning a Championship in a season that had less than a 72% game win ratio. There were three seasons where LeBron James had a higher win ratio than 72%, but failed to win the Championship, while Michael Jordan had zero seasons over this win ratio without landing the Championship. Does that indicate Michael Joradn was luckier than LeBron James? Or was Michael Jordan simply more clinical at finishing the season off on a high?
+
+![image](https://github.com/caitpj/test_nba/assets/97813242/b029e058-2254-4006-b7dd-fe5d59993dd2)
+
+
+*Insights:* 
+Michael Jordan has a higher average points per game, but it's close. Meanwhile, LeBron James has a far higher average total rebounds per game and average assists per game. Might this indicate LeBron James is more of a team player?
 
 ![image](https://github.com/caitpj/test_nba/assets/97813242/ed180e22-ed1e-45f3-823e-68cc88eb4f36)
 
 
 *Insights:* 
-Michael Jordan and LeBron James both consistently over perform against other NBA players for many of the metrics highlighted in these visualizations.
+Michael Jordan is a bit all over the place when it comes to his defencive stats. For example, in the 1987-88 season he had an impressive 1.5 average blocks per game, but the very next season that stat was cut in half to 0.8 average blocks per game. You'd have thought the player who had been moving teams the most would be changing their average season stats the most, but this appears not to be the case.
 
 ### Body Type
-There's no question about it, there's a lot of tall people in the NBA. But is there a limit to the value of height in basketball? And how does weight and BMI factor in to NBA success?
+There's no question about it, being tall helps your basketball. But was this stat particularly relavant for Michael Jordan and LeBron James in comparison to the rest of the NBA players?
 
 ![image](https://github.com/caitpj/test_nba/assets/97813242/48a3155d-1fd8-42cf-abce-47c61d020f2b)
 
 
 *Insights:* 
+Michael Jordan is almost impressivley average when it comes to his height and weight compared to the rest of the NBA, while LeBron James in on the heavier and taller side of the NBA scale. A funny point to note is LeBron James has a BMI of 27 according to this dataset. That puts him in the overweight category, and not far off being labeled obese! This is probably more of a point against the BMI metric rather than LeBron James, he looks pretty fit and healthy to me.
 
+_Limitation of analysis_: Height and weight don't tell the whole picture of a player's physicality. For example, body fat %, and injury details. It's also worth pointing out that weight is likley to fluctuate quite a bit during a player's 15+ year career, there is no data on this fluctuation.
 
 
 ## Conclusions
-This project successfully extracts significant insights from NBA data that NBA fans would find interesting, such as: 
+Michael Jordan and LeBron James are both clearly exceptional basketball players. However, from this analysis, I believe the G.O.A.T. title belongs to LeBron James. This is because:
+- He is remarcably consistent with his average games stats, season on seaon, meaning it's less likley LeBron James's success can be attributed to luck.
+- Although LeBron has 2 fewer Championships, he has a higher number of seasons with a game win ratio that are expected to win a Championship.
+- LeBron has earned 3 times more salary in the NBA than Michael Jordan. Money talks.
+- He has a more impressive physicality than Michael Jordan, being 3 inches taller and 34 pounds heavier.
 
-- The dominance of teams like the Los Angeles Lakers and the San Antonio Spurs in playoff appearances
-- The critical role of "role" players, as highlighted by the playoff games by player insights,
-- The extraordinary achievements of players like LeBron James, Michael Jordan in the playoffs, and Wilt Chamberlain in the regular season. 
-- The influence of universities like Kentucky in producing NBA talent.
+This project extracts significant insights from NBA data, focusing on performances of Michael Jordan and LeBron James. The way the data has been modelled means it is easy to select different players for future analysis. 

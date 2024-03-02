@@ -79,11 +79,11 @@ _Limitation of analysis_: Sadly the plus-minus data only becomes available after
 ### Key Game Statistics by Season
 It's not great careers that win you Championships, it's great seasons. The following visualisations aim to shine a light on the outstanding seasons of Michael Jordan and LeBron James, as well as highlight their consistency of outperfroming fellow NBA players. The '*' next to the Other legend means: any other NBA player who had played an average of 25 minutes per game during the season.
 
-![image](https://github.com/caitpj/test_nba/assets/97813242/b9bdcb9d-4986-4395-a0aa-57a6b4a1520a)
+![image](https://github.com/caitpj/test_nba/assets/97813242/8997914c-0a35-453c-aa0f-6caa92d315b9)
 
-![image](https://github.com/caitpj/test_nba/assets/97813242/a1e84159-7740-4271-844e-208ce59edd2c)
+![image](https://github.com/caitpj/test_nba/assets/97813242/e45b09d7-f4d5-4542-bed2-a07df2bd0f91)
 
-![image](https://github.com/caitpj/test_nba/assets/97813242/9d3ff3e8-acea-4ff4-a805-e65fbb7005f2)
+![image](https://github.com/caitpj/test_nba/assets/97813242/ed180e22-ed1e-45f3-823e-68cc88eb4f36)
 
 
 *Insights:* 

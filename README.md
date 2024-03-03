@@ -13,10 +13,9 @@
    - [Applied Techniques](#applied-techniques)
 4. [Visualizations](#visualizations)
    - [Player Pay](#player-pay)
-   - [Player Playoff Games](#player-playoff-games)
-   - [Top Playoff Scorers](#top-playoff-scorers)
-   - [Top Regular Season Scorers](#top-regular-season-scorers)
-   - [NBA Players by University](#nba-players-by-university)
+   - [Key Game Statistics](#key-game-statistics)
+   - [Key Game Statistics by Season](#key-game-statistics-by-season)
+   - [Body Type](#body-type)
 5. [Conclusions](#conclusions)
 
 ## Introduction

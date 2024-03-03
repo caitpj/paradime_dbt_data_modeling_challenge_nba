@@ -12,7 +12,7 @@
    - [Tools Used](#tools-used)
    - [Applied Techniques](#applied-techniques)
 4. [Visualizations](#visualizations)
-   - [Team Playoff Appearances](#team-playoff-appearances)
+   - [Player Pay](#player-pay)
    - [Player Playoff Games](#player-playoff-games)
    - [Top Playoff Scorers](#top-playoff-scorers)
    - [Top Regular Season Scorers](#top-regular-season-scorers)

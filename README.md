@@ -1,5 +1,5 @@
 # dbt™ Data Modeling Challenge - NBA Edition
-# The G.O.A.T. Debate - Submission by Cai Parry-Jones
+# The G.O.A.T. Debate, Submission by Cai Parry-Jones
 
 <img width="627" alt="image" src="https://github.com/caitpj/test_nba/assets/97813242/664e054c-567f-4c7b-8efe-b4d7594c6090">
 

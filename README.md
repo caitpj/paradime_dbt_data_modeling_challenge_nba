@@ -1,6 +1,5 @@
 # dbt™ Data Modeling Challenge - NBA Edition
-
-# Submission by Cai Parry-Jones
+## Submission by Cai Parry-Jones - Who is the G.O.A.T.?
 
 <img width="627" alt="image" src="https://github.com/caitpj/test_nba/assets/97813242/664e054c-567f-4c7b-8efe-b4d7594c6090">
 

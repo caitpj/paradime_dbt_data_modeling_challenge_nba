@@ -23,7 +23,7 @@ Explore my project for the _dbt™ data modeling challenge - NBA Edition_, Hoste
 ### [My GitHub repo](https://github.com/paradime-io/paradime-dbt-nba-data-challenge/tree/cai-parryjones)
 
 ## Data Sources
-My analysis uses six key NBA datasets provided by default for this competiton:
+My analysis uses six key NBA datasets provided by default for this competition:
 - *PLAYER_GAME_LOGS*
 - *TEAM_STATS_BY_SEASON*
 - *COMMON_PLAYER_INFO*
@@ -38,7 +38,7 @@ I also leverage open access USD inflation data:
 ### Tools Used
 - **[Paradime](https://www.paradime.io/)** for SQL, dbt™, and data lineage.
 - **[Snowflake](https://www.snowflake.com/)** for data storage, ingestion, and computing.
-- **Tableau** for data visualization.
+- **Tableau** for data visualizations.
 
 ### Applied Techniques
 - Snowflake to ingest supplementary USD inflation data from csv file.
@@ -117,5 +117,5 @@ Michael Jordan and LeBron James are both clearly exceptional basketball players.
 - LeBron has earned 3 times more salary in the NBA than Michael Jordan. Money talks.
 - He has a more impressive physicality than Michael Jordan, being 3 inches taller and 34 pounds heavier.
 
-This project extracts significant insights from NBA data, focusing on performances of Michael Jordan and LeBron James. The way the data has been modeled means it is easy to select different players for future analysis. I hope you enjoyed my analysis and data modelling, if you have any questions feel free to send me a message and/or connection request on my [LinkedIn](https://www.linkedin.com/in/cai-parry-jones-001008108/).
+This project extracts significant insights from NBA data, focusing on performances of Michael Jordan and LeBron James. The way the data has been modeled means it is easy to select different players for future analysis. I hope you enjoyed my analysis and data modeling. If you have any questions feel free to send me a message and/or connection request on my [LinkedIn](https://www.linkedin.com/in/cai-parry-jones-001008108/).
 

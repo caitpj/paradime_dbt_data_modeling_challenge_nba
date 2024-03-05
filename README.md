@@ -46,7 +46,7 @@ I also leverage open access USD inflation data:
   - The data structure has been split into five distinct parts:
     1. **Sources** — simply maps 1-2-1 with the raw data sources mentioned above.
     1. **Staging** — basic transformations to tidied up source data e.g. renaming columns and simple data manipulation, such as salary = '$550,000' (string) to salary_usd = 550000 (int).
-    1. **Intermediate** — somwhere to store more complex data transformations, if neccissary e.g. calculating a player's BMI (body mass index).
+    1. **Intermediate** — somewhere to store more complex data transformations, if necessary e.g. calculating a player's BMI (body mass index).
     1. **Dimensional Models** — data that is ready for analysis, split into dimension and fact tables. Here I have used one of Kimball’s dimensional data modeling techniques, called a [Star Schema](https://www.holistics.io/books/setup-analytics/kimball-s-dimensional-data-modeling/).
     1. **One Big Tables** — finally, the data in the Dimensional Models have been fully joined to create data models called [One Big Table](https://dataengineering.wiki/Concepts/One+Big+Table). This is intended for quick and simple analysis, without the need to join to any other table, for more complex analysis it's recommended to use the layer below this i.e. Dimensional Models.
   - I can best present the data structure using Paradime's [Data Lineage](https://www.paradime.io/graph-lineage) tool:

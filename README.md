@@ -23,13 +23,15 @@ Explore my project for the _dbt™ data modeling challenge - NBA Edition_, Hoste
 ### [My GitHub repo](https://github.com/paradime-io/paradime-dbt-nba-data-challenge/tree/cai-parryjones)
 
 ## Data Sources
-My analysis leverages four key NBA datasets from Paradime:
+My analysis uses six key NBA datasets provided by default for this competiton:
 - *PLAYER_GAME_LOGS*
 - *TEAM_STATS_BY_SEASON*
 - *COMMON_PLAYER_INFO*
 - *PLAYER_SALARIES_BY_SEASON*
+- *GAMES*
+- *TEAMS*
 
-I have also used open access USD inflation data:
+I also leverage open access USD inflation data:
 - *HIST_INFLATION*. Citation: “$1 in 1800 → 2024 | Inflation Calculator.” Official Inflation Data, Alioth Finance, 13 Feb. 2024, [https://www.officialdata.org/us/inflation/1800?amount=1](https://www.officialdata.org/us/inflation/1800?amount=1)
 
 ## Methodology
@@ -50,13 +52,13 @@ I have also used open access USD inflation data:
   - I can best present the data structure using Paradime's [Data Lineage](https://www.paradime.io/graph-lineage) tool:
     - Player's career performance: <img width="1325" alt="image" src="https://github.com/caitpj/test_nba/assets/97813242/f8d31606-6b9c-42af-935b-59aa3bae65ad">
     - Player's season performance: <img width="1327" alt="image" src="https://github.com/caitpj/test_nba/assets/97813242/5db2fca8-1bca-4229-b1df-4f0114aea410">
+- Tableau for simple analysis and data vizualisations.
 
 
 ## Visualizations
 ### Player Pay
 The salary of players is a critical aspect of how players' team/s value them, as well as more generally defining a player's personal success. It is a career for them after all.
-
-![image](https://github.com/caitpj/test_nba/assets/97813242/5284c08a-b059-486f-95fc-a6640b16dad9)
+![image](https://github.com/caitpj/test_nba/assets/97813242/bb494ee8-2c26-4617-b18c-c1f2b5f86ccd)
 
 
 *Insights:*
@@ -110,10 +112,10 @@ _Limitation of analysis_: Height and weight don't tell the whole picture of a pl
 
 ## Conclusions
 Michael Jordan and LeBron James are both clearly exceptional basketball players. However, from this analysis, I believe the G.O.A.T. title belongs to LeBron James. This is because:
-- He is remarkably consistent with his average games stats, season on season, meaning it's less likely LeBron James's success can be attributed to luck.
+- He is remarkably consistent with his average games stats, season-by-season, meaning it's less likely LeBron James's success can be attributed to luck.
 - Although LeBron has 2 fewer Championships, he has a higher number of seasons with a game win ratio that are expected to win a Championship.
 - LeBron has earned 3 times more salary in the NBA than Michael Jordan. Money talks.
 - He has a more impressive physicality than Michael Jordan, being 3 inches taller and 34 pounds heavier.
 
-This project extracts significant insights from NBA data, focusing on performances of Michael Jordan and LeBron James. The way the data has been modeled means it is easy to select different players for future analysis. 
+This project extracts significant insights from NBA data, focusing on performances of Michael Jordan and LeBron James. The way the data has been modeled means it is easy to select different players for future analysis. I hope you enjoyed my analysis and data modelling, if you have any questions feel free to send me a message and/or connection request on my [LinkedIn](https://www.linkedin.com/in/cai-parry-jones-001008108/).
 

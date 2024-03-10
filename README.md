@@ -57,6 +57,7 @@ I also leverage open access USD inflation data:
 ## Visualizations
 ### Player Pay
 The salary of players is a critical aspect of how players' team/s value them, as well as more generally defining a player's personal success. It is a career for them after all.
+
 ![image](https://github.com/caitpj/test_nba/assets/97813242/bb494ee8-2c26-4617-b18c-c1f2b5f86ccd)
 
 
